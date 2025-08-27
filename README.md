@@ -1,6 +1,5 @@
 # Pengalaman Belajar di Dicoding
 
-**14 mei 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar tentang apa itu Java dan alasan menggunakannya.
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
@@ -19,4 +18,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 pembelajaran terasa menyenangkan
+
+mungkin karena aku tertarik pada bidang ini makanya aku bisa belajar dan mengikuti dengan baik 
+
 
