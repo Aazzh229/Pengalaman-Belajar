@@ -20,3 +20,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 pembelajaran terasa menyenangkan
 
+mungkin karena aku tertarik pada bidang ini makanya aku bisa belajar dan mengikuti dengan baik 
+
+
